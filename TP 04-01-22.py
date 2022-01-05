@@ -1,4 +1,6 @@
-# 1 branche github par fonctionnalité
+### 1 branche github par fonctionnalité ###
+
+### EXERCICE 1 ###
 
 import re
 
@@ -37,3 +39,7 @@ else:
 
 print(f"Nom : {(nom)} ; Prénom : {(prenom)} ; Mail : {str.capitalize(prenom[0])}.{(nom)}@baton-rouge.fr")
 print("#####################")
+
+### EXERCICE 2 ###
+
+
